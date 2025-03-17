@@ -1,22 +1,24 @@
-# cra-template-tailwindcss-typescript
+#  Logistics UK - Driver Management App  
 
-A streamlined [Tailwind CSS v3.1](https://tailwindcss.com) template for [Create React App](https://github.com/facebook/create-react-app) in [TypeScript](https://www.typescriptlang.org/).
+A modern React & TypeScript-based application for managing driver data efficiently. Built with best practices in mind, ensuring scalability, maintainability, and a seamless user experience.  
 
-> This template installs and sets up [Tailwind CSS](https://tailwindcss.com) with TypeScript support.
+##  Features  
+-  **Driver Search** – Instant search with debounce for smooth UX  
+-  **Driver Table** – Displays essential driver details in an organized way  
+- **State Management with Zustand** – Simple and scalable state handling  
+-  **Optimized API Calls** – Efficient data fetching using TanStack Query  
+-  **Styled with Tailwind CSS** – Modern, responsive design  
 
-## Usage
+---
 
-```bash
-npx create-react-app --template tailwindcss-typescript
-```
+##  Tech Stack  
 
-## Credits
+| Technology       | Purpose |
+|-----------------|---------|
+| **React** & TypeScript | Core framework and typing |
+| **Zustand** | State management for scalability |
+| **TanStack Query (React Query)** | Optimized API data fetching & caching |
+| **Tailwind CSS** | Styling & responsive design |
+| **Custom Hooks** | Code reusability & modularity |
 
-This project was made possible thanks to the following projects.
-
-1. [GeoffSelby/cra-template-tailwindcss](https://github.com/GeoffSelby/cra-template-tailwindcss) - A streamlined Tailwind CSS template for Create React App (in JavaScript).
-2. [cra-template-typescript](https://github.com/facebook/create-react-app/tree/master/packages/cra-template-typescript) - An official TypeScript template for create-react-app.
-
-## License
-
-MIT © [Sung M. Kim](https://sung.codes)
+---
