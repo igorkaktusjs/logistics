@@ -5,7 +5,9 @@ import SearchInput from "../components/ui/SearchInput";
 import DriverTable from "../components/DriverTable";
 
 const HomePage = () => {
-  const { data: drivers, isLoading, error } = useDrivers();
+  const { data: drivers, isLoading, error } = useDrivers({
+    url: '/drivers.json',
+  });
   const { searchQuery, setSearchQuery, setDrivers } = useDriverStore();
 
   // Store the initial drivers when they are first loaded
