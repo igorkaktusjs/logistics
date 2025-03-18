@@ -1,17 +1,17 @@
-#  Logistics UK - Driver Management App  
+# Logistics UK - Driver Management App
 
-A modern React & TypeScript-based application for managing driver data efficiently. Built with best practices in mind, ensuring scalability, maintainability, and a seamless user experience.  
+A modern React & TypeScript-based application for managing driver data efficiently. Built with best practices in mind, ensuring scalability, maintainability, and a seamless user experience.
 
-##  Features  
--  **Driver Search** – Instant search with debounce for smooth UX  
--  **Driver Table** – Displays essential driver details in an organized way  
-- **State Management with Zustand** – Simple and scalable state handling  
--  **Optimized API Calls** – Efficient data fetching using TanStack Query  
--  **Styled with Tailwind CSS** – Modern, responsive design  
+## Features
+- **Driver Search** – Instant search with debounce for smooth UX
+- **Driver Table** – Displays essential driver details in an organized way
+- **State Management with Zustand** – Simple and scalable state handling
+- **Optimized API Calls** – Efficient data fetching using TanStack Query
+- **Styled with Tailwind CSS** – Modern, responsive design
 
 ---
 
-##  Tech Stack  
+## Tech Stack
 
 | Technology       | Purpose |
 |-----------------|---------|
@@ -22,3 +22,8 @@ A modern React & TypeScript-based application for managing driver data efficient
 | **Custom Hooks** | Code reusability & modularity |
 
 ---
+
+
+## Note
+
+This is a test assignment for Logistics UK. All data used in this application is demo data and does not represent real driver information.
